@@ -1,0 +1,49 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #5b8ac8;
+  background-image: url(./img/Bg.jpg);
+  background-size: cover;
+  background-position: top center;
+  position: absolute
+  z-index: 1;
+  color: white; 
+}
+
+#tentang_saya {
+  background-color: #ffffff;
+  background-image: url(.);
+} 
+
+
+  
+#Education {
+  background-color: #5890c7;
+}
+
+.card {
+  border: none;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+
+#projects {
+  background-color: #4053aa;
+}
+
+section {
+  padding-top: 5rem;
+}
